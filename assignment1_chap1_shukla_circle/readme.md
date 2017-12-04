@@ -1,4 +1,4 @@
-# Assignment 1: Calculate Circumfrence and Area of a Circle
+# Assignment 1: Calculate Circumference and Area of a Circle and Area of a Circle
 
 Do this Assignment after covering chapter 2 of "Machine Learning with TensorFlow" by Nishant Shukla:
 
