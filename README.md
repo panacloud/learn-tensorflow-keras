@@ -7,3 +7,7 @@ http://tensorflowbook.com/
 https://www.manning.com/books/deep-learning-with-python
 
 In this Repo we will do programming assignments to accompany the books
+
+Complete Syllabus of the course is available at:
+
+https://www.dropbox.com/s/xv4yd5rs4zwurq5/ai_ssuet_2018.docx?dl=0
