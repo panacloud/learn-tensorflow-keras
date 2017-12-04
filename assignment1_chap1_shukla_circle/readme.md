@@ -13,3 +13,7 @@ docker container run -it --name assignment1 ziaukhan/learn-tensorflow-keras:assi
 Docker repo:
 
 https://hub.docker.com/r/ziaukhan/learn-tensorflow-keras/tags/
+
+Complete Syllabus of the course is available at:
+
+https://www.dropbox.com/s/xv4yd5rs4zwurq5/ai_ssuet_2018.docx?dl=0
