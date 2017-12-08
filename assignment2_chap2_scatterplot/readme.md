@@ -1,4 +1,4 @@
-# Assignment 2: Generate a scatter plot data with nagative slope and containerize it
+# Assignment 2: Generate a scatter plot data with negative slope and containerize it
 
 Do this Assignment after reading beginning of chapter 3 of "Machine Learning with TensorFlow" by Nishant Shukla:
 
